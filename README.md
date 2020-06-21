@@ -23,5 +23,5 @@ You will also see any lint errors in the console.
 
 ## responsive mode
 
-![Topic Image](pictures/mb.png)
-![Topic Image](pictures/mb1.png)
+![Topic Image](pictures/mb.PNG)
+![Topic Image](pictures/mb1.PNG)
