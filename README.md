@@ -15,6 +15,11 @@ You will also see any lint errors in the console.
 ## Landing Page Desktop mode
 
 ![Topic Image](pictures/pic1.png)
+
+##
+
+##
+
 ![Topic Image](pictures/pic2.png)
 
 ## Search feature that can search by artist, name and category at a time
@@ -24,4 +29,9 @@ You will also see any lint errors in the console.
 ## responsive mode
 
 ![Topic Image](pictures/mb.PNG)
-![Topic Image](pictures/mb1.PNG)
+
+##
+
+##
+
+![Topic Image](pictures/mb2.PNG)
