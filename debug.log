@@ -1,0 +1,1 @@
+[0621/185207.353:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Nikhil\AppData\Local\BraveSoftware\Brave-Browser\User Data\Crashpad\reports\a17d0560-649c-4093-8377-d38cf99e6c3e.dmp: The process cannot access the file because it is being used by another process. (0x20)
